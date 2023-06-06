@@ -1,5 +1,8 @@
 # Age-of-Empires-Support-Bot
-A helper bot that automates tasks in the computer game Age of Empires II. 
+A helper bot that automates tasks in the computer game Age of Empires II.
+
+A video Demo of the bot can be found here:
+https://www.youtube.com/watch?v=LbjOrQzaB8o
 
 The purpose of the bot is to spend the player's resources automatically when playing the game. Features: 
 * Uses the PIL and pytesseract libraries to read data from the screen, providing the bot with user data (e.g amount of in-game resources). 
